@@ -1,6 +1,7 @@
 #ignore .metadata
 .metadata
 node_modules
+.DS_Store
 
 *.[oa]
 *.swp
